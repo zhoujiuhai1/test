@@ -21,6 +21,8 @@
     NSLog(@"Zhoujiuhai1的代码");
     NSLog(@"lalalala");
     
+    self.view.backgroundColor = [UIColor redColor];
+    
 }
 
 - (void)didReceiveMemoryWarning {
